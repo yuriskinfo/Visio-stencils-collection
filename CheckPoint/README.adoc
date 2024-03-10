@@ -1,3 +1,4 @@
 = Check Point stencils
+
 There are no official stencils from the CHeck Point themselves. So, the author of the website https://fireverse.org/official-unofficial-check-point-visio-stencil/ created stencils from the official PowerPoint presentations and other marketing material.
 
